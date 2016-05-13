@@ -1,0 +1,11 @@
+1. player object
+2. camera and lighting
+3. background
+4. move player
+5. creating shot
+6. shooting a shot
+7. creating a boundary for shot and hazard
+8. creating an hazard
+9. explosion on contact
+10. Game controller - controls game's hazards and collisions
+11. spawning waves
